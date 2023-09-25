@@ -1,5 +1,5 @@
 # AtividadeMarina
 
 
-Arvore Binaria \n
+Arvore Binaria 
 Grupo 13 : Andre Akim, Lohan Berg
